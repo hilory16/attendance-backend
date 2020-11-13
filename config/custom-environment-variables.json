@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey":"jwtPrivateKey",
+    "SEND_GRID_API_KEY":"SEND_GRID_API_KEY",
+    "MAIL_CLIENT_PASSWORD":"bossdivva_mailClientPassword",
+    "MAIL_CLIENT_USERNAME":"bossdivva_mailClientUsername"
+}

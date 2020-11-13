@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey":"",
+    "SEND_GRID_API_KEY":"",
+    "MAIL_CLIENT_PASSWORD":"",
+    "MAIL_CLIENT_USERNAME":""
+}
